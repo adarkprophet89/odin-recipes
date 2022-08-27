@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    }
+
+body {
+    background-color: rgb(119, 86, 86);
+}
+
+img {
+    width: 50%;
+    height: auto;    
+}
+
+a {
+    color: black;    
+}
+
+a:hover {
+    color: white;
+}
+
+ul li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+figure {
+    text-align: center;
+}
